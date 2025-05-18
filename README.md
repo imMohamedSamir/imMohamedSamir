@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate Flutter mobile app developer</h3>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohamed </h1>
 
+<p align="center" >
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Mobile+App+Developer;A+passionate+Flutter+developer" alt="Typing SVG" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mous3b&label=Profile%20views&color=0e75b6&style=flat" alt="mous3b" /> </p>
 
 - 🔭 I’m currently working on app [Elm7jar](https://github.com/Mous3b/elm7jr)
